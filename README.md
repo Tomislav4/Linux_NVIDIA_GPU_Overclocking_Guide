@@ -27,8 +27,7 @@ Option         "RegistryDwords" "PowerMizerEnable=0x1; PerfLevelSrc=0x2222; Powe
 ```
 So it looks like this 
 ```
-Section "ScreeSection "Screen"
-    Identifier     "Screen0"SectioSection "Screen"
+Section "Screen"
     Identifier     "Screen0"
     Device         "Device0"
     Monitor        "Monitor0"
